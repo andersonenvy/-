@@ -1,3 +1,3 @@
 #PHP Boilerplate
 
-Boilerplate for an HTML5/PHP website
+Boilerplate for HTML5/PHP website
