@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Kenneth Anderson> -- <Web Designer> -- <@andersonenvy>
+
+# THANKS
+
+    <Kenneth Anderson>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5
+    Apache Server Configs, jQuery, Modernizr
