@@ -1,0 +1,15 @@
+@charset "utf-8";
+/* CSS Document */
+/* All Styles by Kenneth Anderson: www.andersonenvy.com */
+
+a {
+   outline: 0;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+}
+
+#wrapper {font-family: 'FontAwesome';}
+

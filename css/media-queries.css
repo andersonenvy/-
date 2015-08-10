@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+/* Mobile portrait (320x480) ----------- */
+@media only screen 
+and (min-width : 320px) {
+/* Styles */
+}
+
+/* Mobile landscape (480x320) ----------- */
+@media only screen 
+and (min-width : 480px) {
+/* Styles */
+}
+
+/* iPhone6 landscape (375x667) ----------- */
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (orientation : landscape) 
+    and (-webkit-min-device-pixel-ratio : 2)
+{ 
+/* Styles */
+
+}
+
+/* iPhone6 portrait (375x667) ----------- */
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (orientation : portrait) 
+    and (-webkit-min-device-pixel-ratio : 2)
+{ 
+/* Styles */
+
+}
+
+/* Small tablet portrait (600x800) ----------- */
+@media only screen 
+and (min-width : 600px) {
+/* Styles */
+}
+
+/* Tablet portrait (768x1024) ----------- */
+@media only screen 
+and (min-width : 768px) {
+/* Styles */
+}
+
+/* Small tablet landscape (800x600) ----------- */
+@media only screen 
+and (min-width : 800px) {
+/* Styles */
+}
+
+/* Tablet landscape (1024x768) ----------- */
+@media only screen 
+and (min-width : 1024px) {
+/* Styles */
+}
