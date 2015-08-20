@@ -27,11 +27,11 @@
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
 <![endif]-->
-<script src="http://code.jquery.com/jquery-latest.min.js" async></script>
+<script src="http://code.jquery.com/jquery-latest.min.js"></script>
 <script src="js/modernizr-2.8.3.min.js"></script>
 <script src="js/console.js"></script>
 <script src="js/script.js" async></script>
-<script src="js/vimeo-responsive.js" async></script>
+<script src="js/vimeo-responsive.js"></script>
 
 <link href="fonts/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet">
 <link rel="stylesheet" type="text/css" href="css/fonts.css" />
@@ -41,4 +41,4 @@
 <link rel="stylesheet" type="text/css" href="css/print.css" media="print" />
 <link rel="stylesheet" type="text/css" href="css/media-queries.css" />
 
-<script src="js/less-1.7.5.min.js" async></script>
+<script src="js/less-1.7.5.min.js"></script>
