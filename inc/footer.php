@@ -1,7 +1,7 @@
 </main>
 <footer>
 <span class="site-author">
-<?php echo "<span class='fa fa-copyright'>" . date("Y") . "</span>" ?> <a rel="author" href="http://<?php echo ($site_url) ; ?>" title=""><?php echo ($site_url) ; ?></a>
+<?php echo "<span class='fa-copyright'>" . date("Y") . "</span>" ?> <a rel="author" href="http://<?php echo ($site_url) ; ?>" title=""><?php echo ($site_url) ; ?></a>
 </span>
 </footer>
 </div><!-- #wrapper -->

@@ -17,19 +17,7 @@ else {
 	$("body").addClass("notMobile");
 }
 
-//Preload
-/*
-$.fn.preload = function() {
-    this.each(function(){
-        $('<img/>')[0].src = this;
-    });
-}
-*/
-// Usage:
-
-//$(['','']).preload();
-
-//$(".blank a[href^='http://']").attr("target","_blank");
+$("a.blank").attr("target","_blank");
 
 // ----- End Document Ready Function ----- //
 });
