@@ -11,9 +11,9 @@
 <meta name="author" content="<?php echo ($site_author) ; ?>">
 <meta name="copyright" content="<?php echo ($site_author) ; ?>"> 
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link rel="apple-touch-icon" href="images/icons/apple-touch-icon.png"/>
-<link rel="shortcut icon" href="images/icons/favicon.ico" type="image/x-icon">
-<link rel="icon" href="images/icons/favicon.ico" type="image/x-icon">
+<link rel="apple-touch-icon" href="images/apple-touch-icon.png"/>
+<link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon">
+<link rel="icon" href="images/favicon.ico" type="image/x-icon">
 <link rel="canonical" href="http://<?php echo ($site_url) ; ?>" />
 <!-- Open Graph Meta Data -->
 <meta property="og:site_name" content="<?php echo ($site_title) ; ?>" />
@@ -22,7 +22,7 @@
 <meta property="og:description" content="<?php echo ($site_description) ; ?>" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:url" content="<?php echo ($current_url) ; ?>" />
-<meta property="og:image" content="http://<?php echo ($site_url) ; ?>/images/icons/og-image.jpg" />
+<meta property="og:image" content="http://<?php echo ($site_url) ; ?>/images/og-image.jpg" />
 <!-- /Open Graph Meta Data -->
 <!--[if lt IE 9]>
 <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
